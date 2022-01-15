@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uz3Y9qZfOllfqzbt6nNXvQZzY0RlHXvj8SB0DPY/8qlOi/WQe/ybnsYESu99zfPH7C0ZW07WXdMvU6fMhiwzZg==",
+  "success": true,
+  "projectFilePath": "D:\\spacework\\с#\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Godfather\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Godfather\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Godfather\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Godfather\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

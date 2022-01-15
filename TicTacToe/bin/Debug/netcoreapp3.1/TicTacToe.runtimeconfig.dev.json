@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Godfather\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Godfather\\.nuget\\packages"
+    ]
+  }
+}
